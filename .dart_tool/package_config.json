@@ -104,6 +104,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "rxdart",
+      "rootUri": "file:///home/talhabajwa/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.24.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///home/talhabajwa/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-06-05T22:07:25.961011Z",
+  "generated": "2020-06-05T22:22:55.673132Z",
   "generator": "pub",
   "generatorVersion": "2.8.3"
 }
