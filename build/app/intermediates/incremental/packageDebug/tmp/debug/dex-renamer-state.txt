@@ -1,0 +1,4 @@
+#Wed Jun 03 20:53:44 PKT 2020
+base.0=/media/talhabajwa1996/0C3812810C381281/Files/Study/Flutter/Projects/LOGIN_BLOC/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
